@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Harsh3563/PFKC.git"
+    "url": "git+https://github.com/Harsh3563/Harsh3563.github.io.git"
   },
   "author": "Harsh D.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Harsh3563/PFKC/issues"
+    "url": "https://github.com/Harsh3563/Harsh3563.github.io/issues"
   },
-  "homepage": "https://github.com/Harsh3563/PFKC#readme",
+  "homepage": "https://github.com/Harsh3563/Harsh3563.github.io#readme",
   "dependencies": {
     "jquery": "^3.6.4",
     "jquery-ui": "^1.13.2"
