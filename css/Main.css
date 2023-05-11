@@ -1,0 +1,118 @@
+@font-face {
+    font-family: 'Shaping Heart';
+    src: url('shaping_heart/Shaping Heart DEMO.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Shaping Heart', sans-serif;
+    font-size: 1rem;
+} 
+
+.ui-dialog .ui-dialog-title {
+    font-family: 'Shaping Heart', sans-serif;
+    font-size: 1.25rem;
+    text-align: center;
+    line-height: 1.5;
+    font-weight: bold;    
+}
+  
+.ui-dialog .ui-dialog-content {
+    font-family: 'Shaping Heart', sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    line-height: 1.5;
+}
+  
+.ui-dialog-titlebar-close {
+    visibility: hidden;
+}
+  
+.btnStyle {
+    width: fit-content;
+    height: 2.5rem;
+    border-radius: 1rem;   
+    z-index: 2;         
+}
+
+.disclaimerDiv {
+    background-color: #ebcecf;
+    border: 0.125rem solid black;
+    border-radius: 1rem;
+    padding: 1.25rem;
+    width: fit-content;
+    height: auto;
+    text-align: center;
+    line-height: 1.5;
+    position: fixed;
+    bottom: 1rem;
+    right: 13rem; 
+    z-index: 2;             
+}
+
+.messageDiv {
+    background-color: #ebcecf;
+    border: 0.125rem solid black;
+    border-radius: 1rem;
+    padding: 1.25rem;
+    width: 40%;
+    height: auto;
+    text-align: center;
+    line-height: 1.5;
+    position: fixed;
+    top: 30%;
+    left: 30%; 
+    z-index: 2;             
+}
+
+.questionDiv {
+    background-color: #ebcecf;
+    border: 0.125rem solid black;
+    border-radius: 1rem;
+    padding: 1.25rem;
+    width: 40%;
+    height: auto;
+    text-align: center;
+    line-height: 1.5;
+    position: fixed;
+    top: 30%;
+    left: 30%; 
+    z-index: 2;             
+}
+
+.container {
+    position: fixed;
+    overflow: hidden;
+    z-index: 2;         
+}
+  
+.topleft {
+    position: fixed;
+    top: 1rem;
+    left: 1rem;   
+    z-index: 2;             
+}
+  
+.imgSize { 
+    width: 25%;
+    height: auto;
+}
+
+.bottomright {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;  
+    z-index: 2;                   
+}
+
+.bgImg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1; 
+}
+
+
