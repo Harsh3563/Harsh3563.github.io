@@ -36,21 +36,6 @@ body {
     z-index: 2;         
 }
 
-.disclaimerDiv {
-    background-color: #ebcecf;
-    border: 0.125rem solid black;
-    border-radius: 1rem;
-    padding: 1.25rem;
-    width: fit-content;
-    height: auto;
-    text-align: center;
-    line-height: 1.5;
-    position: fixed;
-    bottom: 1rem;
-    right: 13rem; 
-    z-index: 2;             
-}
-
 .messageDiv {
     background-color: #ebcecf;
     border: 0.125rem solid black;
